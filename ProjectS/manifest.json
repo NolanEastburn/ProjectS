@@ -6,5 +6,5 @@
   "UniqueID": "narlan.projects",
   "EntryDll":  "ProjectS.dll",
   "MinimumApiVersion": "2.9",
-  "UpdateKeys":  []
+  "UpdateKeys": [ "GitHub:NolanEastburn/ProjectS" ]
 }
