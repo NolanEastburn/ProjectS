@@ -1,0 +1,9 @@
+C:\Users\Nolan\source\repos\ProjectS\ProjectS\bin\Debug\assets\Bone.png
+C:\Users\Nolan\source\repos\ProjectS\ProjectS\bin\Debug\assets\Skeleton.png
+C:\Users\Nolan\source\repos\ProjectS\ProjectS\bin\Debug\ProjectS.dll
+C:\Users\Nolan\source\repos\ProjectS\ProjectS\bin\Debug\ProjectS.pdb
+C:\Users\Nolan\source\repos\ProjectS\ProjectS\obj\Debug\ProjectS.csprojAssemblyReference.cache
+C:\Users\Nolan\source\repos\ProjectS\ProjectS\obj\Debug\ProjectS.csproj.CoreCompileInputs.cache
+C:\Users\Nolan\source\repos\ProjectS\ProjectS\obj\Debug\ProjectS.dll
+C:\Users\Nolan\source\repos\ProjectS\ProjectS\obj\Debug\ProjectS.pdb
+C:\Users\Nolan\source\repos\ProjectS\ProjectS\bin\Debug\assets\SansStatue.png
